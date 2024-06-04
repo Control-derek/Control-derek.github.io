@@ -12,7 +12,7 @@ title                    : "PeiDong Wang"
 title_separator          : "-"
 name                     : &name "PeiDong Wang"
 description              : &description "personal description"
-url                      : https://control-derek.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://control-derek.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Control-derek/Control-derek.github.io"
 
