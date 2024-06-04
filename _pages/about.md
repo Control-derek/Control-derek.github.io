@@ -10,8 +10,9 @@ redirect_from:
 
 <!-- About me
 ====== -->
-- I'm an undergraduate doing research in [Data Mining](https://neu-datamining.github.io/) group at [Northeastern University](http://www.neu.edu.cn/), supervised by [Associate Prof. Shi Feng](https://neu-datamining.github.io/cse/fengshi/).
-- My main research interests are Generative Artificial Intelligence, Large Language Model, Multimodal Large Language Model, Diffusion, and Empathic dialogue.
+I'm an undergraduate doing research in [Data Mining](https://neu-datamining.github.io/) group at [Northeastern University](http://www.neu.edu.cn/), supervised by [Associate Prof. Shi Feng](https://neu-datamining.github.io/cse/fengshi/).
+
+My main research interests are Generative Artificial Intelligence, Large Language Model, Multimodal Large Language Model, Diffusion, and Empathic dialogue.
 
 News
 ======
