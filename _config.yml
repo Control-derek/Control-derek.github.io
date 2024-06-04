@@ -21,7 +21,7 @@ repository               : "Control-derek/Control-derek.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "picture1.jpg"
+  avatar           : "picture2.jpg"
   name             : "PeiDong Wang"
   pronouns         : # example: "she/her"  
   bio              : "A learner and researcher of Artificial Intelligence"
