@@ -24,7 +24,7 @@ author_profile: true
 
   **Contribution:** Design and train a new multi-modal large model framework: [PEGS📌](https://github.com/ZhangYiqun018/StickerConv), Write a part of  paper
 
-  *Annual Meeting of the Association for Computational Linguistics(ACL 2024)*[CCF A] [[Home page]]([STICKERCONV: Generating Multimodal Empathetic Responses from Scratch (neu-datamining.github.io)](https://neu-datamining.github.io/StickerConv/))[[PDF]]([2402.01679 (arxiv.org)](https://arxiv.org/pdf/2402.01679)) [[GitHub]]([ZhangYiqun018/StickerConv (github.com)](https://github.com/ZhangYiqun018/StickerConv))[[arxiv]](https://arxiv.org/abs/2402.01679)[[🤗]](https://huggingface.co/datasets/NEUDM/StickerConv)
+  *Annual Meeting of the Association for Computational Linguistics(ACL 2024)* [CCF A] [[Home page]]([STICKERCONV: Generating Multimodal Empathetic Responses from Scratch (neu-datamining.github.io)](https://neu-datamining.github.io/StickerConv/)) [[PDF]]([2402.01679 (arxiv.org)](https://arxiv.org/pdf/2402.01679)) [[GitHub]]([ZhangYiqun018/StickerConv (github.com)](https://github.com/ZhangYiqun018/StickerConv))[[arxiv]](https://arxiv.org/abs/2402.01679) [[🤗]](https://huggingface.co/datasets/NEUDM/StickerConv)
 
 - [TIGER: A Unified Generative Model Framework for Multimodal Dialogue Response Generation](https://aclanthology.org/2024.lrec-main.1403/)
 
@@ -34,4 +34,4 @@ author_profile: true
 
   **Contribution:** Train the baseline model, Evaluation
 
-  *The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*[CCF B] [[PDF]](https://aclanthology.org/2024.lrec-main.1403.pdf) [[GitHub]](https://github.com/friedrichor/TIGER)[[Demo]](https://www.youtube.com/watch?v=Kd0CMwDs8Rk)
+  *The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)* [CCF B] [[PDF]](https://aclanthology.org/2024.lrec-main.1403.pdf) [[GitHub]](https://github.com/friedrichor/TIGER) [[Demo]](https://www.youtube.com/watch?v=Kd0CMwDs8Rk)
