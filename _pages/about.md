@@ -34,9 +34,12 @@ On **SO-ARM101**, I work on VLA behavior cloning and online residual RL for tabl
 
 ## Recent updates
 
-- **2026:** SAFE-QAQ appeared at **ACL 2026**; SHAPER is available as a preprint and an Agent Lightning recipe; AI4AI at Scale is available as a technical report.
-- **2026.05:** Started my foundation-model internship at **XYZ AI Lab**.
-- **2025:** LANCE appeared at **EMNLP 2025**, and TeleAntiFraud-28k at **ACM Multimedia 2025**.
-- **2025.09:** Started my Ph.D. at Northeastern University.
+- **2026.08:** **[SHAPER](https://arxiv.org/abs/2608.11350)** — our preprint on self-evolving embodied agents through skill-harness evolution, without updating model weights. Code is available as an [official Microsoft Agent Lightning recipe](https://github.com/microsoft/agent-lightning/tree/v0.x/contrib/recipes/shaper).
+- **2026.07:** **[AI4AI at Scale](https://xyz-lab.ai/blogs/ai4ai-at-scale/assets/bounded-exploration-ai4ai-system-optimization.pdf)** — co-authored a technical report on bounded exploration and verification-gated agentic system optimization during my foundation-model internship at [XYZ AI Lab](https://xyz-lab.ai/).
+- **2026.05:** Joined **[XYZ AI Lab](https://xyz-lab.ai/)** as a foundation-model research intern, working on Code Agent pre-training, RL, and training-data pipelines under the mentorship of **Xufang Luo**.
+- **2026.04:** **[SAFE-QAQ](https://aclanthology.org/2026.acl-long.1201/)** (**ACL 2026**, co-first author) — end-to-end audio-text fraud detection via RL, deployed with China Mobile in a production pipeline processing over **70,000 calls per day**. [[Code]](https://github.com/Control-derek/SAFE-QAQ)
+- **2025.09:** Started my direct-entry **Ph.D. in Computer Science** at [Northeastern University](https://www.neu.edu.cn/), advised by [Associate Prof. Shi Feng](https://neu-datamining.github.io/cse/fengshi/) in the [Data Mining group](https://neu-datamining.github.io/).
+- **2025.08:** **[LANCE: Language Models as Continuous Self-Evolving Data Engineers](https://aclanthology.org/2025.emnlp-main.914/)** (**EMNLP 2025**, first author) — language models that generate, clean, review, and annotate their own training data for iterative self-improvement. [[Code]](https://github.com/Control-derek/LANCE)
+- **2025.07:** **[TeleAntiFraud-28k](https://arxiv.org/abs/2503.24115)** (**ACM Multimedia 2025**, co-first author) — an audio-text slow-thinking dataset and benchmark for telecom fraud detection. [[Code & Data]](https://github.com/JimmyMa99/TeleAntiFraud)
 
 Earlier publications and competition results are listed on the [Publications]({{ '/publications/' | relative_url }}) and [Awards]({{ '/awards/' | relative_url }}) pages.
