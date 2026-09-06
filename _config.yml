@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "PeiDong Wang"
+title                    : "Peidong Wang"
 title_separator          : "-"
-name                     : &name "PeiDong Wang"
-description              : &description "personal description"
+name                     : &name "Peidong Wang"
+description              : &description "Peidong Wang — Embodied AI, vision-language-action models, and reinforcement learning for LLMs. Ph.D. student at Northeastern University."
 url                      : "https://control-derek.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Control-derek/Control-derek.github.io"
@@ -22,9 +22,9 @@ repository               : "Control-derek/Control-derek.github.io"
 author:
   # Biographic information
   avatar           : "picture2.jpg"
-  name             : "PeiDong Wang"
+  name             : "Peidong Wang"
   pronouns         : # example: "she/her"  
-  bio              : "A learner and researcher of Artificial Intelligence"
+  bio              : "Ph.D. student · Embodied AI · VLA · LLM Reinforcement Learning"
   location         : # "Earth"
   employer         : "Northeastern University"
   uri              : # URL

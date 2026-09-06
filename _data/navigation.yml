@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Experience"
+    url: /experience/
+
   - title: "Publications"
     url: /publications/
 
@@ -18,7 +21,7 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
+  - title: "中文简历"
     url: /cv/
     
   # - title: "Guide"
